@@ -1,1 +1,1 @@
-# Hand-free-computer-interaction-project
+# Hands-free-computer-interaction
